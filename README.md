@@ -6,7 +6,7 @@ The assistant focuses on **tone, clarity, and style**, delivering polished text 
 
 ---
 
-## 📸 Project Overview / Demo
+##  Project Overview / Demo
 
 ![Assistant UI 1](image1.png)  
 *Chat Interface*
