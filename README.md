@@ -8,11 +8,11 @@ The assistant focuses on **tone, clarity, and style**, delivering polished text 
 
 ## 📸 Project Overview / Demo
 
-![Assistant UI 1](assets/ui_screenshot1.png)  
-*Example: drafting an email with professional tone.*
+![Assistant UI 1](image1.png)  
+*Chat Interface*
 
-![Assistant UI 2](assets/ui_screenshot2.png)  
-*Example: refining a social media caption.*
+![Assistant UI 2](image2.png)  
+*Example: drafting an email with professional tone.*
 
 ---
 
